@@ -6,5 +6,29 @@
         "ProductCategory": "TWS",
         "ProductBrand": "BOAT",
         "ProductQuantity": 100
+    },
+    "102": {
+        "ProductID": 102,
+        "ProductName": "Thinkpad",
+        "ProductPrice": 60000.0,
+        "ProductCategory": "Laptop",
+        "ProductBrand": "Lenevo",
+        "ProductQuantity": 100
+    },
+    "103": {
+        "ProductID": 103,
+        "ProductName": "DOMS EVERDAY",
+        "ProductPrice": 5.0,
+        "ProductCategory": "Pen",
+        "ProductBrand": "DOMS",
+        "ProductQuantity": 100
+    },
+    "104": {
+        "ProductID": 104,
+        "ProductName": "MARKER",
+        "ProductPrice": 30.0,
+        "ProductCategory": "MAKER",
+        "ProductBrand": "DOMS",
+        "ProductQuantity": 1000
     }
 }
