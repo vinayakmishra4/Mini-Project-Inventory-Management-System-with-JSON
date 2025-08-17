@@ -5,7 +5,7 @@
         "ProductPrice": 7000.0,
         "ProductCategory": "TWS",
         "ProductBrand": "BOAT",
-        "ProductQuantity": 100
+        "ProductQuantity": 200
     },
     "102": {
         "ProductID": 102,
@@ -17,10 +17,10 @@
     },
     "103": {
         "ProductID": 103,
-        "ProductName": "DOMS EVERDAY",
-        "ProductPrice": 5.0,
-        "ProductCategory": "Pen",
-        "ProductBrand": "DOMS",
+        "ProductName": "Companion 500",
+        "ProductPrice": 2000.0,
+        "ProductCategory": "Laptop Acessriores",
+        "ProductBrand": "ZEBORNICS",
         "ProductQuantity": 100
     },
     "104": {
@@ -30,5 +30,13 @@
         "ProductCategory": "MAKER",
         "ProductBrand": "DOMS",
         "ProductQuantity": 1000
+    },
+    "105": {
+        "ProductID": 105,
+        "ProductName": "ZEB-PSPK 34",
+        "ProductPrice": 3000.0,
+        "ProductCategory": "Speaker",
+        "ProductBrand": "ZEBORNICS",
+        "ProductQuantity": 100
     }
 }
