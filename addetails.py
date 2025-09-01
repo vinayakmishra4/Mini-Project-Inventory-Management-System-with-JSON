@@ -1,4 +1,5 @@
 import re
+
 # Define constants and variables
 MAX_ATTEMPTS = 3  # Maximum number of attempts allowed per column
 attempts_used = 0  # Counter for attempts used

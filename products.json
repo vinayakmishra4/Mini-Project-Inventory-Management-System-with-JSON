@@ -38,5 +38,13 @@
         "ProductCategory": "Speaker",
         "ProductBrand": "ZEBORNICS",
         "ProductQuantity": 100
+    },
+    "106": {
+        "ProductID": 106,
+        "ProductName": "A26",
+        "ProductPrice": 20000.0,
+        "ProductCategory": "Smartphone",
+        "ProductBrand": "Samsung",
+        "ProductQuantity": 20
     }
 }
