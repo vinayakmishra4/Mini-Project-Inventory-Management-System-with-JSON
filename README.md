@@ -1,1 +1,1 @@
-- Managing Inventory with help of non relational database(JSON)
+# Inventory Management System using JSON
