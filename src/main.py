@@ -1,1 +1,1 @@
-# Entry point of the app
+# Entry point of the projrct

@@ -12,4 +12,12 @@ def load_json(filename):
     return data
 
 
-def write_json(filename):
+# the function writes all the data to a JSON file
+def write_json(filename, data):
+    # Open the file in write mode ('w')
+    with open(filename, 'w') as file:
+        # Convert the Python object (data) to a JSON string and write it to the file 
+        file.write(json.dumps(data, indent=4))  # indent=4 for pretty-printing
+
+
+
