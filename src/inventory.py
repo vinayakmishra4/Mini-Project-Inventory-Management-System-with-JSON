@@ -1,9 +1,6 @@
-# Core inventory logic
-import json
-import os
-
-# it will generate a unique ID for each items
-
-def inventory_ID():
-    """Generate a unique ID for each item."""
-
+# importing utility functions
+import utils as ut
+# this module handles the product inventory management
+import product_manager as pd
+# importing transaction manager for handling transactions
+import transaction_manager as tm
