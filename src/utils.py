@@ -1,5 +1,6 @@
 import json
 import os
+import uuid
 
 
 # ---------------------------
@@ -86,3 +87,16 @@ def write_json(filename, data):
         raise TypeError(f"Data is not JSON serializable: {e}")
     except OSError as e:
         raise OSError(f"Could not write to file '{filename}': {e}")
+
+
+# ---------------------------
+# 🆔 Unique ID Generation Function
+# ---------------------------
+def generate_unique_id():
+    """
+    Generates a unique identifier using UUID4.
+
+    Returns:
+        str: A unique identifier string.
+    """
+    return str(uuid.uuid4())
