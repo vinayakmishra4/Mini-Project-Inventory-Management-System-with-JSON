@@ -100,3 +100,16 @@ def generate_unique_id():
         str: A unique identifier string.
     """
     return str(uuid.uuid4())
+
+# ---------------------------
+# 📁 Data Directory Function
+# ---------------------------
+
+def get_data_directory():
+    """
+    Returns the path to the data directory.
+
+    Returns:
+        str: The absolute path to the data directory.
+    """
+    return os.path.join(os.path.dirname(__file__), 'data')
