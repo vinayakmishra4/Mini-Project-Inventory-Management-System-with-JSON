@@ -1,1 +1,43 @@
-{}
+{
+  "settings": {
+    "currency": "$",
+    "low_stock_threshold": 5,
+    "theme_colors": {
+      "menu": "cyan",
+      "input_prompt": "green",
+      "success": "green",
+      "error": "red",
+      "table_header": "magenta",
+      "table_data": "blue"
+    }
+  },
+  "categories": [
+    {"id": 1, "name": "Electronics"},
+    {"id": 2, "name": "Clothing"},
+    {"id": 3, "name": "Books"}
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Laptop",
+      "category_id": 1,
+      "price": 1200.50,
+      "stock": 10
+    },
+    {
+      "id": 2,
+      "name": "T-Shirt",
+      "category_id": 2,
+      "price": 25.99,
+      "stock": 50
+    },
+    {
+      "id": 3,
+      "name": "Python Programming Book",
+      "category_id": 3,
+      "price": 45.0,
+      "stock": 15
+    }
+  ]
+}
+
