@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://img.icons8.com/fluency/96/inventory.png" alt="Inventory Icon"/>
-</p>
-
 <h1 align="center">📦 Inventory Management System</h1>
 
 <p align="center">
